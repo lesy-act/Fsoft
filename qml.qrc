@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>newBt.qml</file>
+        <file>MyButton.qml</file>
+        <file>ContactModel.qml</file>
+        <file>LineEdit.qml</file>
+    </qresource>
+</RCC>
